@@ -10,7 +10,7 @@ To make vim support .p4 syntax highlighting, just put
 Plug 'rightson/vim-p4-syntax'
 `
 
-in you [Plug](https://github.com/junegunn/vim-plug) configuration file.
+in you [Plug](https://github.com/junegunn/vim-plug) configuration file, then your are all set after `:PlugInstall`
 
-Enjoy : )
-
+# License
+This plugin is distributed under the Apache License
