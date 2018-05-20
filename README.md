@@ -7,7 +7,7 @@ However, the original folder structure is not vim plugin friendly for vim plugin
 To make vim support .p4 syntax highlighting, just put
 
 `
-Plug 'rightson/p4lang'
+Plug 'rightson/vim-p4-syntax'
 `
 
 in you [Plug](https://github.com/junegunn/vim-plug) configuration file.
