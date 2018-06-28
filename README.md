@@ -2,8 +2,6 @@
 
 The vim syntax highlighter was originally made by [c3m3gyanesh](https://github.com/c3m3gyanesh/p4-syntax-highlighter-collection)
 
-However, the original folder structure is not vim plugin friendly for vim plugin managers such as [Plug](https://github.com/junegunn/vim-plug) or Vundle, so I copied his vim syntax files and made a new one.
-
 To make vim support .p4 syntax highlighting, just put
 
 `
