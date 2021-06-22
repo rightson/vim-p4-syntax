@@ -1,6 +1,6 @@
 # p4 language vim syntax highlighter
 
-The vim syntax highlighter was originally made by [c3m3gyanesh](https://github.com/c3m3gyanesh/p4-syntax-highlighter-collection)
+The vim syntax highlighter originally created by [c3m3gyanesh](https://github.com/c3m3gyanesh/p4-syntax-highlighter-collection)
 
 To make vim support .p4 syntax highlighting, just put
 
